@@ -1,4 +1,3 @@
-
 #include "RCSwitch.h"
 #include "mgos_gpio.h"
 #include "mgos_time.h"
