@@ -1,0 +1,19 @@
+{
+  "name": "rc-switch-mos",
+  "description": "Mongoose OS library to operate remote radio controlled devices",
+  "keywords": "rf, radio, wireless",
+  "authors":
+  {
+    "name": "Nithish Ragav"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nnr2611/rc-switch-mos.git"
+  },
+  "version": "1.0.0",
+  "frameworks": [
+        "mongoose os",
+  ],
+  "platforms": "ESP8266"
+}
